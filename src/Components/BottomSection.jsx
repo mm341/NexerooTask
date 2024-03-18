@@ -18,7 +18,7 @@ const BottomSection = () => {
             >
               <div className="globalRowFlexGap justify-center gap-5 h-[50px] cursor-pointer ">
                 <div className="globalRowFlexGap  gap-[3px] justify-center ml-[15px]">
-                  <p className="  text-textColor font-bold  text-[18px]">
+                  <p className="  text-textColor font-bold  text-[15px]">
                     Home
                   </p>
 

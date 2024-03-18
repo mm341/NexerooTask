@@ -6,9 +6,9 @@ import { FaCarSide } from "react-icons/fa";
 
 const FIrstNav = () => {
   return (
-    <div className="globalRowFlex">
+    <div className="globalRowFlex  opacity-70 text-[12px]">
       {/*left section  */}
-      <p>Welcome to Worldwide Electronics Store</p>
+      <p >Welcome to Worldwide Electronics Store</p>
 
       {/* right setion */}
       <div className=" w-[65%] flex flex-row justify-end gap-5  items-center">
@@ -19,18 +19,18 @@ const FIrstNav = () => {
         <div className=" opacity-30">|</div>
         <div className="navFirstLeftSection">
           <FaCarSide />
-          <p>Track Your Order</p>
+          <p >Track Your Order</p>
         </div>
         <div className=" opacity-30">|</div>
         <div className="navFirstLeftSection">
           <FiShoppingCart />
-          <p>Shop</p>
+          <p >Shop</p>
         </div>
         <div className=" opacity-30">|</div>
         <div className="navFirstLeftSection">
           <VscAccount />
 
-          <p>My Account</p>
+          <p className="opacity-70 text-[12px]">My Account</p>
         </div>
       </div>
     </div>

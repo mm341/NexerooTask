@@ -15,7 +15,7 @@ const MiddleNav = () => {
         <IoIosMenu className=" text-[35px]" />
 
         {/*  search box */}
-        <div className=" bg-white w-[500px]   rounded-full flex flex-row  justify-between h-[45px] pl-[30px]">
+        <div className=" bg-white  lg:w-[900px] w-[200px]   rounded-full flex flex-row  justify-between h-[43px] pl-[30px]">
           <input
             type="search"
             placeholder="Search for products"

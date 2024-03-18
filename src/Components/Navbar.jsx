@@ -5,7 +5,7 @@ import BottomSection from "./BottomSection";
 
 const Navbar = () => {
   return (
-    <div className=" w-screen bg-primary pt-[5px]">
+    <div className=" w-screen bg-primary pt-[10px]">
       <div className=" flex  flex-col gap-[35px]">
         <div className=" container mx-auto">
           <FIrstNav />
