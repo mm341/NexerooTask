@@ -1,17 +1,12 @@
-import React from 'react'
+import React from "react";
+import FirstCarousel from "../Components/HomeSections/FirstCarousel";
 
 const Home = () => {
   return (
-    <div>
-      dfcddv
+    <div className=" flex flex-col gap-4">
+      <FirstCarousel />
     </div>
-  )
-}
+  );
+};
 
-export default Home
-
-
-     
-
-
-
+export default Home;

@@ -1,0 +1,10 @@
+.swiper-pagination-bullet-active{
+    border-radius: 2px !important;
+    -webkit-border-radius: 2px !important;
+    -moz-border-radius: 2px !important;
+    -ms-border-radius: 2px !important;
+    -o-border-radius: 2px !important;
+    width: 25px !important;
+    height: 7px !important;
+    background-color: #fed700 !important;
+}

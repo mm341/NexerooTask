@@ -32,6 +32,9 @@
     .navFirstLeftSection {
         @apply flex flex-row  items-center gap-2
     }
+    .navFirstLeftSectionJuistifyCenter {
+        @apply flex flex-row  items-center  justify-center
+    }
 
     .globalRowFlex {
         @apply  flex flex-row justify-between items-center

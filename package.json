@@ -33,7 +33,10 @@
     "react-router": "^6.7.0",
     "react-router-dom": "^6.7.0",
     "react-scroll": "^1.8.9",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.6",
+    "swiper": "^11.0.7",
     "tailwindcss": "^3.2.4"
   },
   "devDependencies": {
